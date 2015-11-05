@@ -1,0 +1,33 @@
+/* for {revealjs} */
+
+
+.reveal section.slide>h1 {
+  color: blue;
+}
+
+
+.reveal .progress {
+  height: 15px;
+  margin-bottom: 5px;
+}
+
+.reveal .slide {
+  text-align:left;
+}
+
+.reveal table{
+  border-style: solid;
+}
+
+.reveal table th {
+  border-style: solid;
+}
+
+.reveal table td {
+  border-style: solid;
+}
+/*
+.section .reveal .state-background {
+  background: #002b36;
+}
+*/
